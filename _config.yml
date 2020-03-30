@@ -99,16 +99,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "白熊站",
-        href: "https://www.baixiongz.com/"
-    },{
         title: "南京·教育",
         href: "http://edu.nanjing.gov.cn/"
     },{
         title: "江苏·政务",
-        href: "http://www.jszwfw.gov.cn/"
+        href: "http://www.jszwfw.gov.cn"
     },{
-        #title: "Apple Developer",
-        #href: "https://developer.apple.com/"
+        #title: "名字",
+        #href: "链接地址"
+    },{
+        title: "白熊站",
+        href: "https://www.baixiongz.com/"
     }
 ]
