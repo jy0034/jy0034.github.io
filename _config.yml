@@ -23,7 +23,7 @@ zhihu_username:
 #github_username:    
 #facebook_username:  
 #jianshu_username:   
-#twitter_username:   qiubaiying
+#twitter_username:   
 
 
 
@@ -102,13 +102,13 @@ friends: [
         title: "白熊站",
         href: "https://www.baixiongz.com/"
     },{
-        #title: "简书·BY",
-        #href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "南京·教育",
+        href: "http://edu.nanjing.gov.cn/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "江苏·政务",
+        href: "http://www.jszwfw.gov.cn/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        #title: "Apple Developer",
+        #href: "https://developer.apple.com/"
     }
 ]
