@@ -64,9 +64,9 @@ gitalk:
   enable: ture    #是否开启Gitalk评论
   clientID: 13ddf7452fef4716424f                            #生成的clientID
   clientSecret: 744dca8990baa7faae0092bf4038f51c79187be8    #生成的clientSecret
-  repo: jy0034.github.io    #仓库名称
+  repo: jy0034    #仓库名称
   owner: jy0034    #github用户名
-  admin: JY
+  admin: jy0034
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
